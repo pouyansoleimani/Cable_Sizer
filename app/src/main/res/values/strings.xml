@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">CableSizer</string>
+
+    <string-array name="cable_type">
+        <item>Cooper</item>
+        <item>Aluminum</item>
+    </string-array>
+
+    <string-array name="insulation">
+        <item>EPR</item>
+        <item>XLPE</item>
+    </string-array>
+
+    <string-array name="installation">
+        <item>Air</item>
+        <item>Ground</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+    </string-array>
+
+    <string-array name="temperature_PVC">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+    </string-array>
+
+    <string-array name="soil">
+        <item>Very Wet</item>
+        <item>Wet</item>
+        <item>Damp</item>
+        <item>Dry</item>
+        <item>Very Dry</item>
+    </string-array>
+
+
+    <string-array name="depth">
+        <item>0.5</item>
+        <item>0.6</item>
+        <item>1</item>
+        <item>1.25</item>
+        <item>1.5</item>
+        <item>1.75</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="tray">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="method">
+        <item>On Perforated - Horizontal - Touching</item>
+        <item>On Perforated - Horizontal - Spaced</item>
+        <item>On Perforated - Vertical - Touching</item>
+        <item>On Perforated - Vertical - Spaced</item>
+        <item>On Ladder - Horizontal - Touching</item>
+        <item>On Ladder - Horizontal - Spaced</item>
+    </string-array>
+
+    <string-array name="cables">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="circuits">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="method_soil">
+        <item>In Duct</item>
+        <item>Direct Buried</item>
+    </string-array>
+
+    <string-array name="space_soil">
+        <item>Touching</item>
+        <item>200 mm</item>
+        <item>400 mm</item>
+        <item>600 mm</item>
+        <item>800 mm</item>
+    </string-array>
+
+    <string-array name="number_of_cables">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="number_of_cables_800">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+</resources>
